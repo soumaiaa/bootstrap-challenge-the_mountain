@@ -1,0 +1,30 @@
+
+.logo{
+    width: 90px;
+    height: 30px;
+}
+
+#home{
+    background-image: url('../images/bg_header.jpg');
+    background-size: 100%;
+    min-width: 100vw;
+    min-height: 100vh;  
+}
+.titre1{
+    padding-top: 100px;
+}
+.back2{
+    
+        background-image: url('../images/bg_nuage.jpg');
+        background-size: 100%;
+        min-width: 100vw;
+        min-height: 100vh;  
+    
+}
+#text{
+    background: rgba(91, 213, 234, 0.3);
+    width: 300px;
+    min-height:100vh ;
+    
+
+}
