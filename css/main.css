@@ -14,7 +14,7 @@
     
 }
 .titre1{
-    padding-top: 100px;
+    padding-top: 150px;
 }
 .back2{
     
@@ -28,7 +28,7 @@
 }
 #text{
     background: rgba(91, 213, 234, 0.3);
-    width: 50%;
+   
     height:100% ;
     
 }
@@ -88,21 +88,27 @@ section{
 }
 #pat1{
     width:100%;
+    margin: 0%;
 }  
 #pat2{
     width:100%;
+    margin: 0%;
 } 
 #pat3{
     width:100%;
+    margin: 0%;
 } 
 #pat4{
     width:100%;
+    margin: 0%;
 } 
 #pat5{
     width:100%;
+    margin: 0%;
 } 
 #pat6{
     width:100%;
+    margin: 0%;
 } 
 .back5{
     background-image: url('../images/bg_newsletter.jpg');
@@ -110,13 +116,19 @@ section{
     min-width: 100vw;
     min-height: 100%;
     background-repeat: no-repeat;
-     
-    
-    
+    background-position: center;
     opacity: 0.5;
-    
-    
 }
 .textfin{
     width: 50%;
+}
+footer{
+    width:100%;
+}
+.bac{
+    background:rgba(3, 3, 3, 0.744);
+}
+.boutt{
+    width: 150px;
+    height: 40px;
 }
